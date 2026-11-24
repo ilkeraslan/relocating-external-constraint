@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Data and code for: Relocating the external constraint: Currency risk, corporate fragility and the state in Turkey"
+type: software
+authors:
+  - family-names: Aslan
+    given-names: Ilker
+    orcid: "https://orcid.org/0000-0001-9241-9420"
+    affiliation: "Kalaidos University of Applied Sciences"
+license: MIT
+repository-code: "https://github.com/ilkeraslan/relocating-external-constraint"
+keywords:
+  - balance-of-payments constraint
+  - Thirlwall's law
+  - currency hierarchy
+  - financial fragility
+  - monetary sovereignty
+  - Turkey
+preferred-citation:
+  type: report
+  title: "Relocating the external constraint: Currency risk, corporate fragility and the state in Turkey"
+  authors:
+    - family-names: Aslan
+      given-names: Ilker
+      orcid: "https://orcid.org/0000-0001-9241-9420"
+      affiliation: "Kalaidos University of Applied Sciences"
+  institution:
+    name: "Kalaidos University of Applied Sciences"
+  year: 2026
+  month: 11
+  url: "https://ilkeraslan.github.io/papers/relocating-the-external-constraint.html"
